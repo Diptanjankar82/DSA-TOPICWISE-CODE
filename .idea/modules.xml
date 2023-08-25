@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/TWO_D_ARRAY/TWO_D_ARRAY.iml" filepath="$PROJECT_DIR$/Arrays/TWO_D_ARRAY/TWO_D_ARRAY.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/TwoPointer/TwoPointer.iml" filepath="$PROJECT_DIR$/Arrays/TwoPointer/TwoPointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hii/hii.iml" filepath="$PROJECT_DIR$/hii/hii.iml" />
     </modules>
   </component>
 </project>

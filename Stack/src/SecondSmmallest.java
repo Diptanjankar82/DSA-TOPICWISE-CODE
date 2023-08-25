@@ -1,4 +1,3 @@
-package Stacks;
 import java.util.Scanner;
 public class SecondSmmallest {
 

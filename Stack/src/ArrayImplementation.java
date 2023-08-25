@@ -1,5 +1,3 @@
-package Stacks;
-
 public class ArrayImplementation {
     public static class Stack{
         int arr[] = new int[2];

@@ -1,5 +1,3 @@
-package Stacks;
-
 public class LinkedListImplementation {
     public static class Node{
         int val;
