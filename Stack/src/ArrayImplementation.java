@@ -18,6 +18,7 @@ public class ArrayImplementation {
             return arr[idx-1];
         }
         int pop(){
+            //hello
             if(idx ==0){
                 System.out.println("Stack is full");
                 return -1;
