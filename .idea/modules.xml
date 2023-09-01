@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/ArrayList/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver_SDE_Sheet/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Striver_SDE_Sheet/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver_A_Z_DSA/Linked_List_1D/Linked_List_1D.iml" filepath="$PROJECT_DIR$/Striver_A_Z_DSA/Linked_List_1D/Linked_List_1D.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/RecursionString/RecursionString.iml" filepath="$PROJECT_DIR$/Recursion/RecursionString/RecursionString.iml" />
@@ -14,9 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Striver_A_Z_DSA/Striver_A_Z_DSA.iml" filepath="$PROJECT_DIR$/Striver_A_Z_DSA/Striver_A_Z_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver_SDE_Sheet/Striver_SDE_Sheet.iml" filepath="$PROJECT_DIR$/Striver_SDE_Sheet/Striver_SDE_Sheet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/TWO_D_ARRAY/TWO_D_ARRAY.iml" filepath="$PROJECT_DIR$/Arrays/TWO_D_ARRAY/TWO_D_ARRAY.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/TwoPointer/TwoPointer.iml" filepath="$PROJECT_DIR$/Arrays/TwoPointer/TwoPointer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Striver_A_Z_DSA/learn/learn.iml" filepath="$PROJECT_DIR$/Striver_A_Z_DSA/learn/learn.iml" />
     </modules>
   </component>
 </project>
