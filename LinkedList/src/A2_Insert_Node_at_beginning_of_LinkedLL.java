@@ -18,7 +18,7 @@
 //
 //       Space Complexity: O(1) We are not using any extra space.
 
-public class Insert_Node_at_beginning_of_LinkedLL_2 {
+public class A2_Insert_Node_at_beginning_of_LinkedLL {
     public static class Node {
         int data;
         Node next;

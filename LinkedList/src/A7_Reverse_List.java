@@ -1,4 +1,4 @@
-public class ReverseList {
+public class A7_Reverse_List {
     public static class Node{
         int val;
         Node next;
