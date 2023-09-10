@@ -5,7 +5,7 @@
 
 //TC - O(N + M)
 //SC - 0(1)
-public class Intersection_Two_LinkedLists {
+public class A8_Intersection_Two_LinkedLists {
     public class ListNode {
         int val;
         ListNode next;
