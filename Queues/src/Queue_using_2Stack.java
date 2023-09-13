@@ -53,6 +53,5 @@ public class Queue_using_2Stack {
             System.out.println(q.peek());
             q.remove();
         }
-
     }
 }

@@ -9,7 +9,7 @@ public class Queue_Deque {
         }
 
         public int remove(){
-          return   de.removeFirst();
+          return  de.removeFirst();
         }
 
         public int peek(){

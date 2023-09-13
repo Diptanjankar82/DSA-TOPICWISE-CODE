@@ -23,6 +23,7 @@ public class Queue_Traversal {
         q.add(4);
         q.add(5);
 
+
         reverse(q);
 
         while(!q.isEmpty()){

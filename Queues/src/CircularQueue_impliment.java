@@ -1,6 +1,5 @@
 public class CircularQueue_impliment {
-    static class Queue{
-        static int arr[];
+    static class Queue{ static int arr[];
         static int size;
         static int rear;
         static int front;

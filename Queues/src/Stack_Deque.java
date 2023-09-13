@@ -9,10 +9,12 @@ public class Stack_Deque {
         }
 
         public int pop(){
+
             return de.removeLast();
         }
 
         public int peek(){
+
             return de.getLast();
         }
     }

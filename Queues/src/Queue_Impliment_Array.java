@@ -12,6 +12,7 @@ public class Queue_Impliment_Array {
            arr = new int[n];
            size = n;
            rear = -1;
+
         }
         public static boolean isEmpty(){
             return rear == -1;

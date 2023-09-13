@@ -14,4 +14,5 @@ public class Queue_JCF {
             q.remove();
         }
     }
+
 }

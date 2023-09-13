@@ -42,6 +42,7 @@ public class Queue_impli_LinkedList {
                 head = head .next;
             }
             return front;
+
         }
 
         //Peek

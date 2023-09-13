@@ -7,6 +7,7 @@ public class Deque_ {
         System.out.println(deque);
         deque.removeFirst();
         System.out.println(deque);
+
     }
 }
 
