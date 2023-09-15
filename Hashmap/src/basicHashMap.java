@@ -11,7 +11,6 @@ public class basicHashMap {
         System.out.println(hm);
 
         //Get - 0(1);
-
         int population = hm.get("India");
         System.out.println(population);
 
