@@ -5,13 +5,15 @@ public class basicHashMap {
         HashMap<String, Integer> hm = new HashMap<>();
 
         //INSERT -0(1)
-        hm.put("bhutan", 7);
-        hm.put("India", 5);
+        hm.put("bhutan", 700);
+        hm.put("India", 255);
+        hm.put("nepal", 785);
+        hm.put("china", 135);
 
         System.out.println(hm);
 
         //Get - 0(1);
-        int population = hm.get("India");
+        int population = hm.get("India"); //get function return the value in the key in this case - india value is 5 //Op - 5
         System.out.println(population);
 
         //Contains - 0(1)
