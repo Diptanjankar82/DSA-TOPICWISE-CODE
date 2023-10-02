@@ -1,7 +1,5 @@
 package Merge_Sort;
-
-
-//Tc - o(n log n);
+//Time Complexity : O(nlogn)
 public class MergeSort_code {
     public static void main(String[] args) {
            int arr[] = {6,3,9,5,2,8};
